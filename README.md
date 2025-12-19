@@ -5,7 +5,7 @@ I'm a front end react developer based in india
 
 ### skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs.)](https://skillicons.dev)
 <!--
 **Shivuduu19/Shivuduu19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
